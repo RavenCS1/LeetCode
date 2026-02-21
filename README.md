@@ -1,6 +1,7 @@
 # LeetCode Solutions
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/RavenCS1?theme=dark&font=changa)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-RavenCS1-orange)](https://leetcode.com/u/RavenCS1/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
